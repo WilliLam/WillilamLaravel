@@ -1,0 +1,95 @@
+body{background-color:#f6f6f6}
+/*# sourceMappingURL=bootstrap.css.map */
+
+.navs{border-left-style: solid; border-right-style: solid;border-color:grey; border-width:2px;}
+
+.hyperlink{color:grey}
+
+.postitle{display:inline;}
+
+.icons{color:black}
+
+p{font-size:18px;}
+
+hr{border-color:black}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+@media (min-width:835px) {
+ .navbar-nav > li{
+        padding-left:4em;
+        padding-right:4em;
+    }
+}
+
+@media (max-width: 768px) {
+  background-color:black;
+}
+
+
+@media (min-width:768px) {
+ .border-between :before {
+   background: #000000;
+   bottom: 0;
+   content: " ";
+   left: 0;
+   position: absolute;
+   width: 2px;
+   top: 0;
+  .icon {
+  }
+    }
+
+
+ .border-between :first-child:before {
+   display: none;
+    }
+}
+
+
+.infocols {
+  width:70%;
+}
+
+@media (max-width:768px) {
+ .infocols {
+ width : 100%;}
+}
+
+.description{
+font-size:1em;}
+
+.navlink{
+text-decoration:underline;}
+
+.face{
+max-width:300px;
+width:100%;
+border-radius: 100%}
+
+@media (max-width:768px) {
+ .face{
+   padding-bottom: 2em;
+ }
+}
+
+.welink{
+font-size:1.8em;
+color:#b3b3b3;
+font-family:monospace;}
+
+
+.welink:hover{
+color:#bfbfbf;
+text-decoration:underline;
+}
+
+html {overflow-y: scroll}
