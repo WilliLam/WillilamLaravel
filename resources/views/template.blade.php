@@ -29,7 +29,7 @@
       <ul class="nav navbar-nav border-between">
         <li class="active border-between"><a href="/"><p class="welink">Home</p></a></li>
         <li class="border-between"><a href="/CV"><p class="welink">Experience</p></a></li>
-        <li class="border-between"><a href="/blog"><p class="welink">Blog</p></a></li>
+        <li class="border-between"><a href="http://blog.willilam.me"><p class="welink">Blog</p></a></li>
       </ul>
     </div>
   </div>
